@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Uma Vyshnavi 👋
 
-<!--
-**Uma-Vyshnavi03/Uma-Vyshnavi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst from India with a background in 
+Electronics & Communications, transitioning fully into 
+data and analytics.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+- **SQL** — Intermediate (joins, window functions, CTEs)
+- **Python** — Pandas, NumPy, data wrangling
+- **Power BI** — Dashboards and visual reporting
+- **Excel** — Advanced analytics and modelling
+- **Tools** — n8n, Make.com, Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What you'll find here
+Real-world analytics projects — EDA, SQL case studies, 
+automation pipelines, and dashboards built on actual datasets.
+
+## 🎯 Currently
+- Sharpening Python for data analytics
+- Building a portfolio of end-to-end analytics projects
+- Open to Data Analyst roles
+
+## 📫 Let's connect
+[https://www.linkedin.com/in/uma-vyshnavi-viriyala](#) ← paste your LinkedIn URL here
