@@ -21,4 +21,4 @@ automation pipelines, and dashboards built on actual datasets.
 - Open to Data Analyst roles
 
 ## 📫 Let's connect
-[LinkedIn][https://www.linkedin.com/in/uma-vyshnavi-viriyala](#)
+[LinkedIn](https://www.linkedin.com/in/uma-vyshnavi-viriyala)
